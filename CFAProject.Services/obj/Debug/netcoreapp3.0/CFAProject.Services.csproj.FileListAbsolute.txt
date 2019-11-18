@@ -1,0 +1,8 @@
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\bin\Debug\netcoreapp3.0\CFAProject.Services.deps.json
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\bin\Debug\netcoreapp3.0\CFAProject.Services.dll
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\bin\Debug\netcoreapp3.0\CFAProject.Services.pdb
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\obj\Debug\netcoreapp3.0\CFAProject.Services.csprojAssemblyReference.cache
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\obj\Debug\netcoreapp3.0\CFAProject.Services.AssemblyInfoInputs.cache
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\obj\Debug\netcoreapp3.0\CFAProject.Services.AssemblyInfo.cs
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\obj\Debug\netcoreapp3.0\CFAProject.Services.dll
+C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Services\obj\Debug\netcoreapp3.0\CFAProject.Services.pdb
