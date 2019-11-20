@@ -26,6 +26,7 @@ namespace CFAProject.API.Controllers
         [Route("score")]
         public IActionResult Score([FromBody]string stream)
         {
+            var test = Request.Body;
             int score = 0;
             int result = _service.AddScore(stream,score);
             if (result != -1)
