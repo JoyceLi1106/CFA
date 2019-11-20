@@ -1,8 +1,0 @@
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\bin\Debug\netcoreapp3.0\CFAProject.Data.deps.json
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\bin\Debug\netcoreapp3.0\CFAProject.Data.dll
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\obj\Debug\netcoreapp3.0\CFAProject.Data.csprojAssemblyReference.cache
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\obj\Debug\netcoreapp3.0\CFAProject.Data.AssemblyInfoInputs.cache
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\obj\Debug\netcoreapp3.0\CFAProject.Data.AssemblyInfo.cs
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\bin\Debug\netcoreapp3.0\CFAProject.Data.pdb
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\obj\Debug\netcoreapp3.0\CFAProject.Data.dll
-C:\Antra Doc\Assessment\CFA-Assignment\CFAProject.Data\obj\Debug\netcoreapp3.0\CFAProject.Data.pdb
