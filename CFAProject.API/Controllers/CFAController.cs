@@ -24,11 +24,10 @@ namespace CFAProject.API.Controllers
 
         [HttpPost]
         [Route("score")]
-        public IActionResult Score([FromBody]string stream)
+        public IActionResult Score([FromBody]Stream stream)
         {
-            var test = Request.Body;
             int score = 0;
-            int result = _service.AddScore(stream,score);
+            int result = _service.AddScore(stream.Input, score);
             if (result != -1)
             {
                 return Ok(result);
